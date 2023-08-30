@@ -1,0 +1,121 @@
+,description,SampleID,Group,relative_abundance
+91,pyruvate fermentation to propanoate I,AB1,CN,0.002127024256157
+234,superpathway of menaquinol-8 biosynthesis II,AB1,CN,0.0002983303469163
+257,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB1,CN,0.0032510080313651
+335,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB1,CN,7.656136186220031e-05
+375,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB1,CN,0.0017417267521949
+384,pyridoxal 5'-phosphate biosynthesis I,AB1,CN,0.0014229540959524
+498,pyruvate fermentation to propanoate I,AB10,CN,0.0019774436686406
+641,superpathway of menaquinol-8 biosynthesis II,AB10,CN,0.0002470309934787
+664,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB10,CN,0.0028243187443098
+742,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB10,CN,7.221553770000794e-05
+782,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB10,CN,0.0010708322809396
+791,pyridoxal 5'-phosphate biosynthesis I,AB10,CN,0.0008306399027851
+905,pyruvate fermentation to propanoate I,AB2,CN,0.003444359359488
+1048,superpathway of menaquinol-8 biosynthesis II,AB2,CN,0.0003372067636159
+1071,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB2,CN,0.0032370234095852
+1149,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB2,CN,9.386654856290116e-05
+1189,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB2,CN,0.0019780215038647
+1198,pyridoxal 5'-phosphate biosynthesis I,AB2,CN,0.001675320315426
+1312,pyruvate fermentation to propanoate I,AB3,CN,0.0019592053618546
+1455,superpathway of menaquinol-8 biosynthesis II,AB3,CN,0.0004155476892703
+1478,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB3,CN,0.0030287471861764
+1556,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB3,CN,0.0001137176317099
+1596,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB3,CN,0.0009491581459995
+1605,pyridoxal 5'-phosphate biosynthesis I,AB3,CN,0.0007572630892812
+1719,pyruvate fermentation to propanoate I,AB4,CN,0.0023025534302854
+1862,superpathway of menaquinol-8 biosynthesis II,AB4,CN,0.0006085755559863
+1885,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB4,CN,0.0027825250978979
+1963,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB4,CN,0.000189470167054
+2003,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB4,CN,0.0011696426528637
+2012,pyridoxal 5'-phosphate biosynthesis I,AB4,CN,0.00090971730663
+2126,pyruvate fermentation to propanoate I,AB5,CN,0.0024486338738552
+2269,superpathway of menaquinol-8 biosynthesis II,AB5,CN,0.0004477799233524
+2292,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB5,CN,0.0031154439358637
+2370,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB5,CN,0.0001285618856127
+2410,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB5,CN,0.0013731631950147
+2419,pyridoxal 5'-phosphate biosynthesis I,AB5,CN,0.0010926292447104
+2533,pyruvate fermentation to propanoate I,AB6,CN,0.0018763882426177
+2676,superpathway of menaquinol-8 biosynthesis II,AB6,CN,0.0003434118547583
+2699,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB6,CN,0.0036178043856759
+2777,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB6,CN,0.0001002000090317
+2817,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB6,CN,0.0010737669856898
+2826,pyridoxal 5'-phosphate biosynthesis I,AB6,CN,0.0008342707304272
+2940,pyruvate fermentation to propanoate I,AB7,CN,0.0020174069978316
+3083,superpathway of menaquinol-8 biosynthesis II,AB7,CN,0.0003689336015806
+3106,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB7,CN,0.0027469094179354
+3184,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB7,CN,0.0001004572381263
+3224,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB7,CN,0.0012868658417867
+3233,pyridoxal 5'-phosphate biosynthesis I,AB7,CN,0.0009959974724646
+3347,pyruvate fermentation to propanoate I,AB8,CN,0.001844469252297
+3490,superpathway of menaquinol-8 biosynthesis II,AB8,CN,0.0004343876254946
+3513,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB8,CN,0.002844683961535
+3591,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB8,CN,0.0001189529212683
+3631,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB8,CN,0.0012268781164266
+3640,pyridoxal 5'-phosphate biosynthesis I,AB8,CN,0.0009540169578028
+3754,pyruvate fermentation to propanoate I,AB9,CN,0.0023837729732136
+3897,superpathway of menaquinol-8 biosynthesis II,AB9,CN,0.0004366082483742
+3920,pyrimidine deoxyribonucleotides de novo biosynthesis III,AB9,CN,0.0029290839698553
+3998,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB9,CN,0.0001221373421128
+4038,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB9,CN,0.0012931790174755
+4047,pyridoxal 5'-phosphate biosynthesis I,AB9,CN,0.0010251411889693
+7824,pyruvate fermentation to propanoate I,BA1,CMC,0.0042641410747133
+7967,superpathway of menaquinol-8 biosynthesis II,BA1,CMC,0.0009633488099849
+7990,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA1,CMC,0.0029747932179839
+8068,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA1,CMC,0.0003482592836267
+8108,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA1,CMC,0.0021219218934529
+8117,pyridoxal 5'-phosphate biosynthesis I,BA1,CMC,0.0018468754542877
+8231,pyruvate fermentation to propanoate I,BA10,CMC,0.0042132406102941
+8374,superpathway of menaquinol-8 biosynthesis II,BA10,CMC,0.0005750304009407
+8397,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA10,CMC,0.0023765115432626
+8475,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA10,CMC,0.0001947298732928
+8515,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA10,CMC,0.0022183026225272
+8524,pyridoxal 5'-phosphate biosynthesis I,BA10,CMC,0.0019594309590038
+8638,pyruvate fermentation to propanoate I,BA2,CMC,0.0046852621604869
+8781,superpathway of menaquinol-8 biosynthesis II,BA2,CMC,0.000857991784815
+8804,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA2,CMC,0.002824643942135
+8882,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA2,CMC,0.0003104748825537
+8922,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA2,CMC,0.0027692738140504
+8931,pyridoxal 5'-phosphate biosynthesis I,BA2,CMC,0.0025685063445171
+9045,pyruvate fermentation to propanoate I,BA3,CMC,0.0051538122240142
+9188,superpathway of menaquinol-8 biosynthesis II,BA3,CMC,0.0008768284688134
+9211,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA3,CMC,0.0023590237758786
+9289,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA3,CMC,0.0003202153568667
+9329,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA3,CMC,0.0024965960254045
+9338,pyridoxal 5'-phosphate biosynthesis I,BA3,CMC,0.0023384313582448
+9452,pyruvate fermentation to propanoate I,BA4,CMC,0.0046444229746784
+9595,superpathway of menaquinol-8 biosynthesis II,BA4,CMC,0.0005501768961484
+9618,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA4,CMC,0.0024345702054875
+9696,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA4,CMC,0.0001847861648758
+9736,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA4,CMC,0.0023314041640856
+9745,pyridoxal 5'-phosphate biosynthesis I,BA4,CMC,0.0020587321161526
+9859,pyruvate fermentation to propanoate I,BA5,CMC,0.0029082692557925
+10002,superpathway of menaquinol-8 biosynthesis II,BA5,CMC,0.0007772037204153
+10025,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA5,CMC,0.0022120918402714
+10103,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA5,CMC,0.0002235336700204
+10143,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA5,CMC,0.0012743282394271
+10152,pyridoxal 5'-phosphate biosynthesis I,BA5,CMC,0.0009512650801987
+10266,pyruvate fermentation to propanoate I,BA6,CMC,0.0045671835358889
+10409,superpathway of menaquinol-8 biosynthesis II,BA6,CMC,0.0012266404613274
+10432,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA6,CMC,0.0021058647437114
+10510,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA6,CMC,0.0004637884562985
+10550,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA6,CMC,0.0024142432121589
+10559,pyridoxal 5'-phosphate biosynthesis I,BA6,CMC,0.0020969272993265
+10673,pyruvate fermentation to propanoate I,BA7,CMC,0.0051976595588647
+10816,superpathway of menaquinol-8 biosynthesis II,BA7,CMC,0.0007857904571519
+10839,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA7,CMC,0.0022433855825901
+10917,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA7,CMC,0.0002642098104914
+10957,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA7,CMC,0.002546908354091
+10966,pyridoxal 5'-phosphate biosynthesis I,BA7,CMC,0.0024665106190095
+11080,pyruvate fermentation to propanoate I,BA8,CMC,0.0057271223076832
+11223,superpathway of menaquinol-8 biosynthesis II,BA8,CMC,0.00054439882422
+11246,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA8,CMC,0.0019202283057367
+11324,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA8,CMC,0.0001855247108892
+11364,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA8,CMC,0.0028392846757701
+11373,pyridoxal 5'-phosphate biosynthesis I,BA8,CMC,0.0029133569552384
+11487,pyruvate fermentation to propanoate I,BA9,CMC,0.0047416395623222
+11630,superpathway of menaquinol-8 biosynthesis II,BA9,CMC,0.0006320814747981
+11653,pyrimidine deoxyribonucleotides de novo biosynthesis III,BA9,CMC,0.002424038018418
+11731,"1,4-dihydroxy-6-naphthoate biosynthesis I",BA9,CMC,0.0002185759250339
+11771,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,BA9,CMC,0.0025043008453244
+11780,pyridoxal 5'-phosphate biosynthesis I,BA9,CMC,0.0022485926518501

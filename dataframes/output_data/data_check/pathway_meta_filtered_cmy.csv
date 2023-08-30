@@ -1,0 +1,495 @@
+,description,SampleID,Group,relative_abundance
+14,biotin biosynthesis I,AB1,CN,0.0021778057260198
+19,pyruvate fermentation to butanoate,AB1,CN,0.000744725041058
+34,fatty acid &beta;-oxidation I,AB1,CN,0.0004457733633984
+68,L-methionine biosynthesis III,AB1,CN,0.0010245850520777
+82,NAD biosynthesis II (from tryptophan),AB1,CN,2.924270431479535e-06
+91,pyruvate fermentation to propanoate I,AB1,CN,0.002127024256157
+94,"superpathway of (R,R)-butanediol biosynthesis",AB1,CN,4.984573362901937e-05
+123,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB1,CN,0.0040742503880995
+126,superpathway of taurine degradation,AB1,CN,3.995435905354933e-06
+128,photorespiration,AB1,CN,2.8578722687092955e-05
+139,biotin biosynthesis II,AB1,CN,6.13135466719607e-05
+178,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB1,CN,1.8279899003194103e-06
+209,superpathway of heme biosynthesis from glycine,AB1,CN,0.0008147301955311
+234,superpathway of menaquinol-8 biosynthesis II,AB1,CN,0.0002983303469163
+248,"superpathway of 2,3-butanediol biosynthesis",AB1,CN,0.0001240975749552
+256,8-amino-7-oxononanoate biosynthesis I,AB1,CN,0.002206531273116
+260,chondroitin sulfate degradation I (bacterial),AB1,CN,5.33908645637061e-05
+262,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB1,CN,0.000934070311632
+281,isopropanol biosynthesis,AB1,CN,1.2149666782631017e-05
+286,superpathway of glucose and xylose degradation,AB1,CN,0.002881187465343
+313,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB1,CN,0.0030596320877293
+322,"myo-, chiro- and scillo-inositol degradation",AB1,CN,4.508691711049546e-05
+335,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB1,CN,7.656136186220031e-05
+375,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB1,CN,0.0017417267521949
+384,pyridoxal 5'-phosphate biosynthesis I,AB1,CN,0.0014229540959524
+385,TCA cycle VIII (helicobacter),AB1,CN,0.0014240296504472
+421,biotin biosynthesis I,AB10,CN,0.002126115366922
+426,pyruvate fermentation to butanoate,AB10,CN,0.0003582749025864
+441,fatty acid &beta;-oxidation I,AB10,CN,0.0001849281236784
+475,L-methionine biosynthesis III,AB10,CN,0.0011675831145004
+489,NAD biosynthesis II (from tryptophan),AB10,CN,8.851240273941096e-07
+498,pyruvate fermentation to propanoate I,AB10,CN,0.0019774436686406
+501,"superpathway of (R,R)-butanediol biosynthesis",AB10,CN,9.096842038604204e-05
+530,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB10,CN,0.0029873042414101
+533,superpathway of taurine degradation,AB10,CN,3.970988792135587e-06
+535,photorespiration,AB10,CN,3.385139468777938e-05
+546,biotin biosynthesis II,AB10,CN,1.3723601002654294e-05
+585,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB10,CN,5.532291622365358e-07
+616,superpathway of heme biosynthesis from glycine,AB10,CN,0.0003671453074919
+641,superpathway of menaquinol-8 biosynthesis II,AB10,CN,0.0002470309934787
+655,"superpathway of 2,3-butanediol biosynthesis",AB10,CN,0.0001678047721073
+663,8-amino-7-oxononanoate biosynthesis I,AB10,CN,0.0022698422967874
+667,chondroitin sulfate degradation I (bacterial),AB10,CN,7.713895559221403e-05
+669,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB10,CN,0.000455212404688
+688,isopropanol biosynthesis,AB10,CN,0.0
+693,superpathway of glucose and xylose degradation,AB10,CN,0.0028011726829401
+720,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB10,CN,0.0024191043532327
+729,"myo-, chiro- and scillo-inositol degradation",AB10,CN,8.048863776195552e-05
+742,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB10,CN,7.221553770000794e-05
+782,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB10,CN,0.0010708322809396
+791,pyridoxal 5'-phosphate biosynthesis I,AB10,CN,0.0008306399027851
+792,TCA cycle VIII (helicobacter),AB10,CN,0.0010560094666193
+828,biotin biosynthesis I,AB2,CN,0.0027320802855461
+833,pyruvate fermentation to butanoate,AB2,CN,0.0006191573667521
+848,fatty acid &beta;-oxidation I,AB2,CN,0.0003501533581303
+882,L-methionine biosynthesis III,AB2,CN,0.0008854064957836
+896,NAD biosynthesis II (from tryptophan),AB2,CN,4.075736920938414e-06
+905,pyruvate fermentation to propanoate I,AB2,CN,0.003444359359488
+908,"superpathway of (R,R)-butanediol biosynthesis",AB2,CN,3.860896693056399e-05
+937,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB2,CN,0.0040589238473029
+940,superpathway of taurine degradation,AB2,CN,4.997565677261888e-06
+942,photorespiration,AB2,CN,4.96923554017226e-05
+953,biotin biosynthesis II,AB2,CN,7.043613116852544e-06
+992,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB2,CN,2.547907587654295e-06
+1023,superpathway of heme biosynthesis from glycine,AB2,CN,0.0006591085422605
+1048,superpathway of menaquinol-8 biosynthesis II,AB2,CN,0.0003372067636159
+1062,"superpathway of 2,3-butanediol biosynthesis",AB2,CN,9.377800946132492e-05
+1070,8-amino-7-oxononanoate biosynthesis I,AB2,CN,0.0030395691190016
+1074,chondroitin sulfate degradation I (bacterial),AB2,CN,0.0001721143502946
+1076,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB2,CN,0.0007793250650212
+1095,isopropanol biosynthesis,AB2,CN,0.0
+1100,superpathway of glucose and xylose degradation,AB2,CN,0.0037742430477463
+1127,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB2,CN,0.0030721199047193
+1136,"myo-, chiro- and scillo-inositol degradation",AB2,CN,4.499017589127482e-05
+1149,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB2,CN,9.386654856290116e-05
+1189,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB2,CN,0.0019780215038647
+1198,pyridoxal 5'-phosphate biosynthesis I,AB2,CN,0.001675320315426
+1199,TCA cycle VIII (helicobacter),AB2,CN,0.0011952979884849
+1235,biotin biosynthesis I,AB3,CN,0.0018167259148235
+1240,pyruvate fermentation to butanoate,AB3,CN,0.0004047528632936
+1255,fatty acid &beta;-oxidation I,AB3,CN,0.0002057264845265
+1289,L-methionine biosynthesis III,AB3,CN,0.0008854345223654
+1303,NAD biosynthesis II (from tryptophan),AB3,CN,2.260974020329092e-06
+1312,pyruvate fermentation to propanoate I,AB3,CN,0.0019592053618546
+1315,"superpathway of (R,R)-butanediol biosynthesis",AB3,CN,2.710599673088473e-05
+1344,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB3,CN,0.0029497397897465
+1347,superpathway of taurine degradation,AB3,CN,4.408492652360075e-06
+1349,photorespiration,AB3,CN,5.450580070019095e-05
+1360,biotin biosynthesis II,AB3,CN,1.2634523467854856e-05
+1399,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB3,CN,1.4132757576455286e-06
+1430,superpathway of heme biosynthesis from glycine,AB3,CN,0.0003874162065426
+1455,superpathway of menaquinol-8 biosynthesis II,AB3,CN,0.0004155476892703
+1469,"superpathway of 2,3-butanediol biosynthesis",AB3,CN,6.474162367937676e-05
+1477,8-amino-7-oxononanoate biosynthesis I,AB3,CN,0.0021122414518311
+1481,chondroitin sulfate degradation I (bacterial),AB3,CN,7.632037354796089e-05
+1483,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB3,CN,0.000513332803011
+1502,isopropanol biosynthesis,AB3,CN,5.073683508404803e-07
+1507,superpathway of glucose and xylose degradation,AB3,CN,0.0021036674868469
+1534,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB3,CN,0.0020562812361439
+1543,"myo-, chiro- and scillo-inositol degradation",AB3,CN,2.6887577345145902e-05
+1556,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB3,CN,0.0001137176317099
+1596,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB3,CN,0.0009491581459995
+1605,pyridoxal 5'-phosphate biosynthesis I,AB3,CN,0.0007572630892812
+1606,TCA cycle VIII (helicobacter),AB3,CN,0.0008140565863824
+1642,biotin biosynthesis I,AB4,CN,0.0019698731417291
+1647,pyruvate fermentation to butanoate,AB4,CN,0.0004132092396242
+1662,fatty acid &beta;-oxidation I,AB4,CN,0.0002151205726156
+1696,L-methionine biosynthesis III,AB4,CN,0.0011030316301728
+1710,NAD biosynthesis II (from tryptophan),AB4,CN,3.6789043007109126e-06
+1719,pyruvate fermentation to propanoate I,AB4,CN,0.0023025534302854
+1722,"superpathway of (R,R)-butanediol biosynthesis",AB4,CN,6.099750729508133e-05
+1751,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB4,CN,0.0029896382085763
+1754,superpathway of taurine degradation,AB4,CN,1.766213316083472e-06
+1756,photorespiration,AB4,CN,6.945110224182092e-05
+1767,biotin biosynthesis II,AB4,CN,1.8218223843015084e-05
+1806,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB4,CN,2.299788968762298e-06
+1837,superpathway of heme biosynthesis from glycine,AB4,CN,0.0003521017963162
+1862,superpathway of menaquinol-8 biosynthesis II,AB4,CN,0.0006085755559863
+1876,"superpathway of 2,3-butanediol biosynthesis",AB4,CN,0.0001239829004589
+1884,8-amino-7-oxononanoate biosynthesis I,AB4,CN,0.0019647560020867
+1888,chondroitin sulfate degradation I (bacterial),AB4,CN,6.842582058917437e-05
+1890,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB4,CN,0.000524228574969
+1909,isopropanol biosynthesis,AB4,CN,1.6288758140803788e-07
+1914,superpathway of glucose and xylose degradation,AB4,CN,0.0024831106376634
+1941,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB4,CN,0.0027388445977312
+1950,"myo-, chiro- and scillo-inositol degradation",AB4,CN,5.251395683886039e-05
+1963,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB4,CN,0.000189470167054
+2003,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB4,CN,0.0011696426528637
+2012,pyridoxal 5'-phosphate biosynthesis I,AB4,CN,0.00090971730663
+2013,TCA cycle VIII (helicobacter),AB4,CN,0.0020089105534398
+2049,biotin biosynthesis I,AB5,CN,0.0023946569544747
+2054,pyruvate fermentation to butanoate,AB5,CN,0.0006691813146617
+2069,fatty acid &beta;-oxidation I,AB5,CN,0.0003922328422197
+2103,L-methionine biosynthesis III,AB5,CN,0.0010028558738095
+2117,NAD biosynthesis II (from tryptophan),AB5,CN,2.9294412848849115e-06
+2126,pyruvate fermentation to propanoate I,AB5,CN,0.0024486338738552
+2129,"superpathway of (R,R)-butanediol biosynthesis",AB5,CN,3.132764211494704e-05
+2158,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB5,CN,0.003379995273787
+2161,superpathway of taurine degradation,AB5,CN,7.563205654505453e-06
+2163,photorespiration,AB5,CN,6.60468854631855e-05
+2174,biotin biosynthesis II,AB5,CN,1.192044468347898e-05
+2213,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB5,CN,1.8311921311932047e-06
+2244,superpathway of heme biosynthesis from glycine,AB5,CN,0.0007014648257169
+2269,superpathway of menaquinol-8 biosynthesis II,AB5,CN,0.0004477799233524
+2283,"superpathway of 2,3-butanediol biosynthesis",AB5,CN,7.613189604272555e-05
+2291,8-amino-7-oxononanoate biosynthesis I,AB5,CN,0.0026700853011235
+2295,chondroitin sulfate degradation I (bacterial),AB5,CN,0.0001100774000945
+2297,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB5,CN,0.0008407709205898
+2316,isopropanol biosynthesis,AB5,CN,1.1495566727257551e-06
+2321,superpathway of glucose and xylose degradation,AB5,CN,0.0027400653247456
+2348,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB5,CN,0.0024120183500386
+2357,"myo-, chiro- and scillo-inositol degradation",AB5,CN,5.1272583229413786e-05
+2370,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB5,CN,0.0001285618856127
+2410,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB5,CN,0.0013731631950147
+2419,pyridoxal 5'-phosphate biosynthesis I,AB5,CN,0.0010926292447104
+2420,TCA cycle VIII (helicobacter),AB5,CN,0.0013544598688507
+2456,biotin biosynthesis I,AB6,CN,0.0019217793422125
+2461,pyruvate fermentation to butanoate,AB6,CN,0.0003805168933708
+2476,fatty acid &beta;-oxidation I,AB6,CN,0.0001926850192885
+2510,L-methionine biosynthesis III,AB6,CN,0.0011972881907079
+2524,NAD biosynthesis II (from tryptophan),AB6,CN,8.12448611505787e-06
+2533,pyruvate fermentation to propanoate I,AB6,CN,0.0018763882426177
+2536,"superpathway of (R,R)-butanediol biosynthesis",AB6,CN,2.9272425118923825e-05
+2565,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB6,CN,0.0029500132613194
+2568,superpathway of taurine degradation,AB6,CN,5.432241948851741e-06
+2570,photorespiration,AB6,CN,8.129406895360865e-05
+2581,biotin biosynthesis II,AB6,CN,4.8164009232153794e-05
+2620,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB6,CN,5.080194298748063e-06
+2651,superpathway of heme biosynthesis from glycine,AB6,CN,0.0003570520300723
+2676,superpathway of menaquinol-8 biosynthesis II,AB6,CN,0.0003434118547583
+2690,"superpathway of 2,3-butanediol biosynthesis",AB6,CN,7.530492933775437e-05
+2698,8-amino-7-oxononanoate biosynthesis I,AB6,CN,0.0022039194983394
+2702,chondroitin sulfate degradation I (bacterial),AB6,CN,6.752365990376672e-05
+2704,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB6,CN,0.0004833965931288
+2723,isopropanol biosynthesis,AB6,CN,9.760727609454014e-06
+2728,superpathway of glucose and xylose degradation,AB6,CN,0.0023464837451165
+2755,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB6,CN,0.001935791977191
+2764,"myo-, chiro- and scillo-inositol degradation",AB6,CN,4.331932139133803e-05
+2777,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB6,CN,0.0001002000090317
+2817,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB6,CN,0.0010737669856898
+2826,pyridoxal 5'-phosphate biosynthesis I,AB6,CN,0.0008342707304272
+2827,TCA cycle VIII (helicobacter),AB6,CN,0.0014212995483593
+2863,biotin biosynthesis I,AB7,CN,0.0018242546279271
+2868,pyruvate fermentation to butanoate,AB7,CN,0.0004882412282644
+2883,fatty acid &beta;-oxidation I,AB7,CN,0.0002572056019226
+2917,L-methionine biosynthesis III,AB7,CN,0.0010633520812725
+2931,NAD biosynthesis II (from tryptophan),AB7,CN,3.2503228394349696e-06
+2940,pyruvate fermentation to propanoate I,AB7,CN,0.0020174069978316
+2943,"superpathway of (R,R)-butanediol biosynthesis",AB7,CN,7.069429335629394e-05
+2972,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB7,CN,0.0037439812601093
+2975,superpathway of taurine degradation,AB7,CN,8.265510895740714e-06
+2977,photorespiration,AB7,CN,5.356788494937816e-05
+2988,biotin biosynthesis II,AB7,CN,3.1466841291161064e-05
+3027,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB7,CN,2.031947313513136e-06
+3058,superpathway of heme biosynthesis from glycine,AB7,CN,0.0004617880597481
+3083,superpathway of menaquinol-8 biosynthesis II,AB7,CN,0.0003689336015806
+3097,"superpathway of 2,3-butanediol biosynthesis",AB7,CN,0.0001832524038207
+3105,8-amino-7-oxononanoate biosynthesis I,AB7,CN,0.0019060846662364
+3109,chondroitin sulfate degradation I (bacterial),AB7,CN,6.328823271287682e-05
+3111,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB7,CN,0.0006195426239344
+3130,isopropanol biosynthesis,AB7,CN,2.8579484170114773e-06
+3135,superpathway of glucose and xylose degradation,AB7,CN,0.0031521562883944
+3162,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB7,CN,0.0025721316247882
+3171,"myo-, chiro- and scillo-inositol degradation",AB7,CN,9.544145638004424e-05
+3184,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB7,CN,0.0001004572381263
+3224,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB7,CN,0.0012868658417867
+3233,pyridoxal 5'-phosphate biosynthesis I,AB7,CN,0.0009959974724646
+3234,TCA cycle VIII (helicobacter),AB7,CN,0.0011620119375388
+3270,biotin biosynthesis I,AB8,CN,0.0022665762257513
+3275,pyruvate fermentation to butanoate,AB8,CN,0.0004177598155812
+3290,fatty acid &beta;-oxidation I,AB8,CN,0.0002192018961653
+3324,L-methionine biosynthesis III,AB8,CN,0.0011782250631504
+3338,NAD biosynthesis II (from tryptophan),AB8,CN,1.530487659174038e-06
+3347,pyruvate fermentation to propanoate I,AB8,CN,0.001844469252297
+3350,"superpathway of (R,R)-butanediol biosynthesis",AB8,CN,7.45694026454143e-05
+3379,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB8,CN,0.0033779210504383
+3382,superpathway of taurine degradation,AB8,CN,5.53389173323087e-06
+3384,photorespiration,AB8,CN,4.398898105488011e-05
+3395,biotin biosynthesis II,AB8,CN,1.436734531710144e-05
+3434,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB8,CN,9.566466098109407e-07
+3465,superpathway of heme biosynthesis from glycine,AB8,CN,0.0004125331910123
+3490,superpathway of menaquinol-8 biosynthesis II,AB8,CN,0.0004343876254946
+3504,"superpathway of 2,3-butanediol biosynthesis",AB8,CN,0.0001785402933769
+3512,8-amino-7-oxononanoate biosynthesis I,AB8,CN,0.0022231123272612
+3516,chondroitin sulfate degradation I (bacterial),AB8,CN,6.262128781327522e-05
+3518,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB8,CN,0.0005302607657504
+3537,isopropanol biosynthesis,AB8,CN,1.0924181959446704e-06
+3542,superpathway of glucose and xylose degradation,AB8,CN,0.0024014423684952
+3569,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB8,CN,0.0033232179194914
+3578,"myo-, chiro- and scillo-inositol degradation",AB8,CN,6.788501452883955e-05
+3591,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB8,CN,0.0001189529212683
+3631,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB8,CN,0.0012268781164266
+3640,pyridoxal 5'-phosphate biosynthesis I,AB8,CN,0.0009540169578028
+3641,TCA cycle VIII (helicobacter),AB8,CN,0.001036331200594
+3677,biotin biosynthesis I,AB9,CN,0.0020403332882066
+3682,pyruvate fermentation to butanoate,AB9,CN,0.0007044682992497
+3697,fatty acid &beta;-oxidation I,AB9,CN,0.0003857181016502
+3731,L-methionine biosynthesis III,AB9,CN,0.0010170371048803
+3745,NAD biosynthesis II (from tryptophan),AB9,CN,0.0
+3754,pyruvate fermentation to propanoate I,AB9,CN,0.0023837729732136
+3757,"superpathway of (R,R)-butanediol biosynthesis",AB9,CN,4.9268851772752784e-05
+3786,"superpathway of histidine, purine, and pyrimidine biosynthesis",AB9,CN,0.0035043688709628
+3789,superpathway of taurine degradation,AB9,CN,6.56296835714151e-06
+3791,photorespiration,AB9,CN,4.389286586396375e-05
+3802,biotin biosynthesis II,AB9,CN,1.388510048549257e-05
+3841,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AB9,CN,0.0
+3872,superpathway of heme biosynthesis from glycine,AB9,CN,0.0006545153082093
+3897,superpathway of menaquinol-8 biosynthesis II,AB9,CN,0.0004366082483742
+3911,"superpathway of 2,3-butanediol biosynthesis",AB9,CN,0.0001232662440807
+3919,8-amino-7-oxononanoate biosynthesis I,AB9,CN,0.0020408611435506
+3923,chondroitin sulfate degradation I (bacterial),AB9,CN,7.33903048297836e-05
+3925,superpathway of Clostridium acetobutylicum acidogenic fermentation,AB9,CN,0.0008862621293427
+3944,isopropanol biosynthesis,AB9,CN,0.0
+3949,superpathway of glucose and xylose degradation,AB9,CN,0.0030176838628136
+3976,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AB9,CN,0.0027951626549519
+3985,"myo-, chiro- and scillo-inositol degradation",AB9,CN,5.259061919792294e-05
+3998,"1,4-dihydroxy-6-naphthoate biosynthesis I",AB9,CN,0.0001221373421128
+4038,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AB9,CN,0.0012931790174755
+4047,pyridoxal 5'-phosphate biosynthesis I,AB9,CN,0.0010251411889693
+4048,TCA cycle VIII (helicobacter),AB9,CN,0.0016700475909632
+4084,biotin biosynthesis I,AC1,CMY,0.0027455819586061
+4089,pyruvate fermentation to butanoate,AC1,CMY,0.0007335087220665
+4104,fatty acid &beta;-oxidation I,AC1,CMY,0.0003866614588366
+4138,L-methionine biosynthesis III,AC1,CMY,0.001205161222586
+4152,NAD biosynthesis II (from tryptophan),AC1,CMY,6.533503277617748e-05
+4161,pyruvate fermentation to propanoate I,AC1,CMY,0.0039947897940532
+4164,"superpathway of (R,R)-butanediol biosynthesis",AC1,CMY,0.0001075355256441
+4193,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC1,CMY,0.0044086486575648
+4196,superpathway of taurine degradation,AC1,CMY,1.2645364895709131e-05
+4198,photorespiration,AC1,CMY,8.961030269275547e-05
+4209,biotin biosynthesis II,AC1,CMY,5.04500676099962e-05
+4248,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC1,CMY,4.097500545928272e-05
+4279,superpathway of heme biosynthesis from glycine,AC1,CMY,0.0006887175781541
+4304,superpathway of menaquinol-8 biosynthesis II,AC1,CMY,0.0006011763092095
+4318,"superpathway of 2,3-butanediol biosynthesis",AC1,CMY,0.0002510420375174
+4326,8-amino-7-oxononanoate biosynthesis I,AC1,CMY,0.0028793288433846
+4330,chondroitin sulfate degradation I (bacterial),AC1,CMY,0.0001484602555907
+4332,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC1,CMY,0.0009207728673839
+4351,isopropanol biosynthesis,AC1,CMY,4.759782101580371e-05
+4356,superpathway of glucose and xylose degradation,AC1,CMY,0.0037838826904734
+4383,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC1,CMY,0.0032542195346088
+4392,"myo-, chiro- and scillo-inositol degradation",AC1,CMY,9.638774163053468e-05
+4405,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC1,CMY,0.0002032841312449
+4445,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC1,CMY,0.0023594870718138
+4454,pyridoxal 5'-phosphate biosynthesis I,AC1,CMY,0.0019915283509191
+4455,TCA cycle VIII (helicobacter),AC1,CMY,0.0025364926968101
+4491,biotin biosynthesis I,AC2,CMY,0.0027007752085921
+4496,pyruvate fermentation to butanoate,AC2,CMY,0.0011556318508636
+4511,fatty acid &beta;-oxidation I,AC2,CMY,0.0007415920479683
+4545,L-methionine biosynthesis III,AC2,CMY,0.0016696215736983
+4559,NAD biosynthesis II (from tryptophan),AC2,CMY,5.962053498346904e-05
+4568,pyruvate fermentation to propanoate I,AC2,CMY,0.0034886366166076
+4571,"superpathway of (R,R)-butanediol biosynthesis",AC2,CMY,0.0001859674718369
+4600,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC2,CMY,0.0043130674216444
+4603,superpathway of taurine degradation,AC2,CMY,1.7383913419145872e-05
+4605,photorespiration,AC2,CMY,0.0002396573199858
+4616,biotin biosynthesis II,AC2,CMY,0.000114780935184
+4655,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC2,CMY,3.739261673399353e-05
+4686,superpathway of heme biosynthesis from glycine,AC2,CMY,0.0010462674871144
+4711,superpathway of menaquinol-8 biosynthesis II,AC2,CMY,0.0005433718770635
+4725,"superpathway of 2,3-butanediol biosynthesis",AC2,CMY,0.0002994146248228
+4733,8-amino-7-oxononanoate biosynthesis I,AC2,CMY,0.0026438023073987
+4737,chondroitin sulfate degradation I (bacterial),AC2,CMY,0.0001283009653481
+4739,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC2,CMY,0.001426576849977
+4758,isopropanol biosynthesis,AC2,CMY,1.9029741068590303e-05
+4763,superpathway of glucose and xylose degradation,AC2,CMY,0.0035268559142919
+4790,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC2,CMY,0.0033988451088877
+4799,"myo-, chiro- and scillo-inositol degradation",AC2,CMY,9.173094271347752e-05
+4812,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC2,CMY,0.0001883928096628
+4852,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC2,CMY,0.0023540578579404
+4861,pyridoxal 5'-phosphate biosynthesis I,AC2,CMY,0.0019638996310506
+4862,TCA cycle VIII (helicobacter),AC2,CMY,0.0019835820103505
+4898,biotin biosynthesis I,AC3,CMY,0.0028889517991711
+4903,pyruvate fermentation to butanoate,AC3,CMY,0.0009888539656599
+4918,fatty acid &beta;-oxidation I,AC3,CMY,0.0006243740169836
+4952,L-methionine biosynthesis III,AC3,CMY,0.0014885247431979
+4966,NAD biosynthesis II (from tryptophan),AC3,CMY,5.704642618533159e-05
+4975,pyruvate fermentation to propanoate I,AC3,CMY,0.0037287064375699
+4978,"superpathway of (R,R)-butanediol biosynthesis",AC3,CMY,0.0001006033616873
+5007,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC3,CMY,0.0045216394892302
+5010,superpathway of taurine degradation,AC3,CMY,1.364484041754296e-05
+5012,photorespiration,AC3,CMY,0.0002881238366913
+5023,biotin biosynthesis II,AC3,CMY,5.572608422761029e-05
+5062,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC3,CMY,3.576398266279823e-05
+5093,superpathway of heme biosynthesis from glycine,AC3,CMY,0.0010485896685874
+5118,superpathway of menaquinol-8 biosynthesis II,AC3,CMY,0.0005010672048182
+5132,"superpathway of 2,3-butanediol biosynthesis",AC3,CMY,0.0002342103272329
+5140,8-amino-7-oxononanoate biosynthesis I,AC3,CMY,0.0029835618851597
+5144,chondroitin sulfate degradation I (bacterial),AC3,CMY,0.0001712765745731
+5146,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC3,CMY,0.0012297614693028
+5165,isopropanol biosynthesis,AC3,CMY,3.0177599166569583e-05
+5170,superpathway of glucose and xylose degradation,AC3,CMY,0.0038432577983495
+5197,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC3,CMY,0.003355207341218
+5206,"myo-, chiro- and scillo-inositol degradation",AC3,CMY,0.0001164639538448
+5219,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC3,CMY,0.0001617665321286
+5259,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC3,CMY,0.0023247905391559
+5268,pyridoxal 5'-phosphate biosynthesis I,AC3,CMY,0.0019615214207527
+5269,TCA cycle VIII (helicobacter),AC3,CMY,0.002370133083698
+5305,biotin biosynthesis I,AC4,CMY,0.0031670329935079
+5310,pyruvate fermentation to butanoate,AC4,CMY,0.0014530463743052
+5325,fatty acid &beta;-oxidation I,AC4,CMY,0.0011651910175061
+5359,L-methionine biosynthesis III,AC4,CMY,0.0025577165764253
+5373,NAD biosynthesis II (from tryptophan),AC4,CMY,0.0001235769711518
+5382,pyruvate fermentation to propanoate I,AC4,CMY,0.0057893562508093
+5385,"superpathway of (R,R)-butanediol biosynthesis",AC4,CMY,0.0001730047130492
+5414,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC4,CMY,0.0051015987324589
+5417,superpathway of taurine degradation,AC4,CMY,1.001233131486664e-05
+5419,photorespiration,AC4,CMY,0.0001057589301866
+5430,biotin biosynthesis II,AC4,CMY,6.060929023191397e-05
+5469,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC4,CMY,7.773130047947979e-05
+5500,superpathway of heme biosynthesis from glycine,AC4,CMY,0.0012624354430583
+5525,superpathway of menaquinol-8 biosynthesis II,AC4,CMY,0.0008547970453473
+5539,"superpathway of 2,3-butanediol biosynthesis",AC4,CMY,0.0001831875333501
+5547,8-amino-7-oxononanoate biosynthesis I,AC4,CMY,0.002947843411294
+5551,chondroitin sulfate degradation I (bacterial),AC4,CMY,0.0002623557403691
+5553,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC4,CMY,0.001772739787572
+5572,isopropanol biosynthesis,AC4,CMY,7.922909173524348e-05
+5577,superpathway of glucose and xylose degradation,AC4,CMY,0.0043883302953547
+5604,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC4,CMY,0.0043174096487624
+5613,"myo-, chiro- and scillo-inositol degradation",AC4,CMY,0.0001572116951249
+5626,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC4,CMY,0.0003099892506291
+5666,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC4,CMY,0.0027216553590248
+5675,pyridoxal 5'-phosphate biosynthesis I,AC4,CMY,0.0027669578220602
+5676,TCA cycle VIII (helicobacter),AC4,CMY,0.0038181955995662
+5712,biotin biosynthesis I,AC5,CMY,0.0027145160557887
+5717,pyruvate fermentation to butanoate,AC5,CMY,0.0011276823426463
+5732,fatty acid &beta;-oxidation I,AC5,CMY,0.0007028891060174
+5766,L-methionine biosynthesis III,AC5,CMY,0.0018787485211039
+5780,NAD biosynthesis II (from tryptophan),AC5,CMY,9.093236269368192e-05
+5789,pyruvate fermentation to propanoate I,AC5,CMY,0.0040074598711387
+5792,"superpathway of (R,R)-butanediol biosynthesis",AC5,CMY,9.919450153380997e-05
+5821,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC5,CMY,0.0048010384431865
+5824,superpathway of taurine degradation,AC5,CMY,4.520986766367611e-06
+5826,photorespiration,AC5,CMY,0.0001435617258747
+5837,biotin biosynthesis II,AC5,CMY,0.0001472000658974
+5876,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC5,CMY,5.710395864597066e-05
+5907,superpathway of heme biosynthesis from glycine,AC5,CMY,0.0010136055321334
+5932,superpathway of menaquinol-8 biosynthesis II,AC5,CMY,0.0006384491441843
+5946,"superpathway of 2,3-butanediol biosynthesis",AC5,CMY,0.0002260348911896
+5954,8-amino-7-oxononanoate biosynthesis I,AC5,CMY,0.0027993400446728
+5958,chondroitin sulfate degradation I (bacterial),AC5,CMY,0.0001860080638636
+5960,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC5,CMY,0.0013962681339956
+5979,isopropanol biosynthesis,AC5,CMY,2.641418648955469e-05
+5984,superpathway of glucose and xylose degradation,AC5,CMY,0.0035766349188539
+6011,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC5,CMY,0.0037265049437738
+6020,"myo-, chiro- and scillo-inositol degradation",AC5,CMY,9.7284360704699e-05
+6033,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC5,CMY,0.0001932649271165
+6073,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC5,CMY,0.0024471746886055
+6082,pyridoxal 5'-phosphate biosynthesis I,AC5,CMY,0.0020997221260315
+6083,TCA cycle VIII (helicobacter),AC5,CMY,0.0024602194274407
+6119,biotin biosynthesis I,AC6,CMY,0.0031688206904982
+6124,pyruvate fermentation to butanoate,AC6,CMY,0.0009955228765151
+6139,fatty acid &beta;-oxidation I,AC6,CMY,0.0006198445722064
+6173,L-methionine biosynthesis III,AC6,CMY,0.0015405816098102
+6187,NAD biosynthesis II (from tryptophan),AC6,CMY,2.6873405233758697e-05
+6196,pyruvate fermentation to propanoate I,AC6,CMY,0.0044190509269646
+6199,"superpathway of (R,R)-butanediol biosynthesis",AC6,CMY,9.125103490355078e-05
+6228,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC6,CMY,0.0044784789383605
+6231,superpathway of taurine degradation,AC6,CMY,2.635835373992177e-05
+6233,photorespiration,AC6,CMY,0.0001575478651897
+6244,biotin biosynthesis II,AC6,CMY,0.0001005402921208
+6283,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC6,CMY,1.681931661449928e-05
+6314,superpathway of heme biosynthesis from glycine,AC6,CMY,0.0009842117771635
+6339,superpathway of menaquinol-8 biosynthesis II,AC6,CMY,0.000606588666165
+6353,"superpathway of 2,3-butanediol biosynthesis",AC6,CMY,0.0001931078806957
+6361,8-amino-7-oxononanoate biosynthesis I,AC6,CMY,0.003255519361675
+6365,chondroitin sulfate degradation I (bacterial),AC6,CMY,0.0001344612443443
+6367,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC6,CMY,0.0012366969717993
+6386,isopropanol biosynthesis,AC6,CMY,2.4434234941161937e-05
+6391,superpathway of glucose and xylose degradation,AC6,CMY,0.0039864805632594
+6418,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC6,CMY,0.0035323738136415
+6427,"myo-, chiro- and scillo-inositol degradation",AC6,CMY,9.230445415237104e-05
+6440,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC6,CMY,0.0001908451610724
+6480,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC6,CMY,0.0028241331920775
+6489,pyridoxal 5'-phosphate biosynthesis I,AC6,CMY,0.0025548169370392
+6490,TCA cycle VIII (helicobacter),AC6,CMY,0.002213667764423
+6526,biotin biosynthesis I,AC7,CMY,0.0032366679627953
+6531,pyruvate fermentation to butanoate,AC7,CMY,0.0012868476824103
+6546,fatty acid &beta;-oxidation I,AC7,CMY,0.0008686250747176
+6580,L-methionine biosynthesis III,AC7,CMY,0.0022567944488619
+6594,NAD biosynthesis II (from tryptophan),AC7,CMY,5.3614869202647295e-05
+6603,pyruvate fermentation to propanoate I,AC7,CMY,0.0047473901379932
+6606,"superpathway of (R,R)-butanediol biosynthesis",AC7,CMY,0.0001124536434315
+6635,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC7,CMY,0.0048656139829976
+6638,superpathway of taurine degradation,AC7,CMY,2.30307632612334e-05
+6640,photorespiration,AC7,CMY,0.0001889755265271
+6651,biotin biosynthesis II,AC7,CMY,9.474413326285945e-05
+6690,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC7,CMY,3.3602685980011484e-05
+6721,superpathway of heme biosynthesis from glycine,AC7,CMY,0.0011752469288338
+6746,superpathway of menaquinol-8 biosynthesis II,AC7,CMY,0.0009515669611162
+6760,"superpathway of 2,3-butanediol biosynthesis",AC7,CMY,0.0002403730854912
+6768,8-amino-7-oxononanoate biosynthesis I,AC7,CMY,0.0032297593677849
+6772,chondroitin sulfate degradation I (bacterial),AC7,CMY,0.0003230092690156
+6774,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC7,CMY,0.0015843585232871
+6793,isopropanol biosynthesis,AC7,CMY,2.9891991990837925e-05
+6798,superpathway of glucose and xylose degradation,AC7,CMY,0.0042753497659524
+6825,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC7,CMY,0.0039453420692874
+6834,"myo-, chiro- and scillo-inositol degradation",AC7,CMY,0.0001218811688482
+6847,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC7,CMY,0.0003283703535882
+6887,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC7,CMY,0.0025951138679544
+6896,pyridoxal 5'-phosphate biosynthesis I,AC7,CMY,0.0023482234506482
+6897,TCA cycle VIII (helicobacter),AC7,CMY,0.0031454469050452
+6933,biotin biosynthesis I,AC8,CMY,0.0029431402021917
+6938,pyruvate fermentation to butanoate,AC8,CMY,0.0008492769022132
+6953,fatty acid &beta;-oxidation I,AC8,CMY,0.0004658230658028
+6987,L-methionine biosynthesis III,AC8,CMY,0.0014390780227721
+7001,NAD biosynthesis II (from tryptophan),AC8,CMY,6.582243387375182e-05
+7010,pyruvate fermentation to propanoate I,AC8,CMY,0.0044094823575131
+7013,"superpathway of (R,R)-butanediol biosynthesis",AC8,CMY,8.730539473796523e-05
+7042,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC8,CMY,0.0045160174858718
+7045,superpathway of taurine degradation,AC8,CMY,2.0059806792080608e-05
+7047,photorespiration,AC8,CMY,0.0001844153382173
+7058,biotin biosynthesis II,AC8,CMY,9.127106877070682e-05
+7097,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC8,CMY,4.129835785250029e-05
+7128,superpathway of heme biosynthesis from glycine,AC8,CMY,0.0006522617961519
+7153,superpathway of menaquinol-8 biosynthesis II,AC8,CMY,0.0008394045344732
+7167,"superpathway of 2,3-butanediol biosynthesis",AC8,CMY,0.0002103822396351
+7175,8-amino-7-oxononanoate biosynthesis I,AC8,CMY,0.0029237532476898
+7179,chondroitin sulfate degradation I (bacterial),AC8,CMY,0.0002101254773648
+7181,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC8,CMY,0.001062969740924
+7200,isopropanol biosynthesis,AC8,CMY,5.866264722290593e-05
+7205,superpathway of glucose and xylose degradation,AC8,CMY,0.0043206419765
+7232,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC8,CMY,0.0032862139976086
+7241,"myo-, chiro- and scillo-inositol degradation",AC8,CMY,0.0001289527287356
+7254,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC8,CMY,0.0003015619186849
+7294,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC8,CMY,0.0027607244974999
+7303,pyridoxal 5'-phosphate biosynthesis I,AC8,CMY,0.0023092815903127
+7304,TCA cycle VIII (helicobacter),AC8,CMY,0.0017600349680615
+7340,biotin biosynthesis I,AC9,CMY,0.0026957400607052
+7345,pyruvate fermentation to butanoate,AC9,CMY,0.0011091338150705
+7360,fatty acid &beta;-oxidation I,AC9,CMY,0.0006256336748755
+7394,L-methionine biosynthesis III,AC9,CMY,0.0017466950295741
+7408,NAD biosynthesis II (from tryptophan),AC9,CMY,4.438176498819356e-05
+7417,pyruvate fermentation to propanoate I,AC9,CMY,0.004224928308796
+7420,"superpathway of (R,R)-butanediol biosynthesis",AC9,CMY,0.0001554144558327
+7449,"superpathway of histidine, purine, and pyrimidine biosynthesis",AC9,CMY,0.0047110275596739
+7452,superpathway of taurine degradation,AC9,CMY,2.182961416779121e-05
+7454,photorespiration,AC9,CMY,0.0001556175542783
+7465,biotin biosynthesis II,AC9,CMY,0.0001685991961487
+7504,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde,AC9,CMY,2.780412159098852e-05
+7535,superpathway of heme biosynthesis from glycine,AC9,CMY,0.0008736488505092
+7560,superpathway of menaquinol-8 biosynthesis II,AC9,CMY,0.0008416837098255
+7574,"superpathway of 2,3-butanediol biosynthesis",AC9,CMY,0.0003218692469915
+7582,8-amino-7-oxononanoate biosynthesis I,AC9,CMY,0.002675846184318
+7586,chondroitin sulfate degradation I (bacterial),AC9,CMY,0.0002204928321662
+7588,superpathway of Clostridium acetobutylicum acidogenic fermentation,AC9,CMY,0.0013736950942176
+7607,isopropanol biosynthesis,AC9,CMY,6.890301830369531e-05
+7612,superpathway of glucose and xylose degradation,AC9,CMY,0.003804209315099
+7639,superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis,AC9,CMY,0.0036985625626851
+7648,"myo-, chiro- and scillo-inositol degradation",AC9,CMY,0.0001373673522851
+7661,"1,4-dihydroxy-6-naphthoate biosynthesis I",AC9,CMY,0.0002735313450929
+7701,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,AC9,CMY,0.002390464069628
+7710,pyridoxal 5'-phosphate biosynthesis I,AC9,CMY,0.0020665840132322
+7711,TCA cycle VIII (helicobacter),AC9,CMY,0.0022827739448243
