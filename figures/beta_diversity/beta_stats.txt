@@ -1,0 +1,44 @@
+
+
+CN vs CMC stats PERMANOVA test result:
+ method name               PERMANOVA
+test statistic name        pseudo-F
+sample size                      20
+number of groups                  2
+test statistic            13.164889
+p-value                       0.001
+number of permutations          999
+Name: PERMANOVA results, dtype: object
+
+
+CN vs CMC stats ANOSIM test result:
+ method name                 ANOSIM
+test statistic name              R
+sample size                     20
+number of groups                 2
+test statistic            0.562889
+p-value                      0.001
+number of permutations         999
+Name: ANOSIM results, dtype: object
+
+
+CN vs CMY stats PERMANOVA test result:
+ method name               PERMANOVA
+test statistic name        pseudo-F
+sample size                      19
+number of groups                  2
+test statistic            17.657702
+p-value                       0.001
+number of permutations          999
+Name: PERMANOVA results, dtype: object
+
+
+CN vs CMY stats ANOSIM test result:
+ method name                 ANOSIM
+test statistic name              R
+sample size                     19
+number of groups                 2
+test statistic            0.698491
+p-value                      0.001
+number of permutations         999
+Name: ANOSIM results, dtype: object
