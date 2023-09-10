@@ -1,0 +1,79 @@
+Python has been heavily used for statistical analysis and visualization. 
+To characterize the significant OTRs between the control sequence and the CMC compound, 
+we applied the Kruskal-Wallis test, which provides corresponding p-values for each OTR. 
+In addition, Shannon and Simpson indices were used to determine alpha diversity. 
+The calculations were based on functions from the skbio.diversity library. To analyze beta diversity, 
+the pairwise_distances function from the sklearn.metrics library was applied using the “braycurtis” metric.
+
+Particular attention was paid to statistically significant metapaths. Here, we used a t-test 
+to calculate the p-value, and also adjusted ex post to account for multiple comparisons. Kendell's 
+correlation analysis helped determine the relationship between OTU identifiers and metapaths.
+
+As for visualization, we have chosen the matplotlib and seaborn tools, which allow us to create 
+informative graphs for a visual presentation of the analysis results.
+
+
+Beta stats test dataframes/output_data/beta/stats.txt 
+Оба теста (PERMANOVA и ANOSIM) показали статистически значимые различия между двумя группами (CN и CMC) с p-значением равным 0.001. 
+В вашем случае p-значение равно 0.001 или 0.1% (если выразить в процентах). 
+Это означает, что если бы не было реальных различий между группами, 
+то вероятность случайно наблюдать такие или ещё более сильные различия составляла бы всего 0.1%. 
+Таким образом, при таком маленьком p-значении, делаем вывод о том, 
+что между группами есть статистически значимые различия.
+
+
+OTU dataframes/output_data/OTU/taxonomy_CMC.csv figures/relative_ab/
+Метод исследования: Kruskal-Wallis p<0.05 -> relative_abundance
+
+Разнообразие групп микробов: В таблице представлены различные группы микробов 
+(g_Alistipes, g_Alloprevotella и т. д.), их присутствие и концентрация в разных образцах (AB1, AB10 и т. д.).
+Различие между группами CN и CMC: Кажется, что группы, помеченные как CMC, 
+имеют высокие значения для определенных групп микробов по сравнению с группами, помеченными как CN. Например, 
+BA1 в группе CMC имеет значительно высокий процент для g_Rikenellaceae RC9 gut group, g_Prevotellaceae NK3B31 group и 
+g_Prevotella, в то время как группы из CN не показывают такого же уровня концентрации этих микробов.
+Доминирующие группы микробов: g_Prevotella и g_Prevotellaceae NK3B31 group кажутся доминирующими во многих образцах. 
+Некоторые образцы имеют довольно высокие значения для этих групп.
+Различия в концентрациях: Внутри каждой группы (CN или CMC) существуют заметные различия в концентрациях разных микробов. 
+Например, в группе CN, AB1 и AB4 имеют относительно высокие значения для g_Rikenellaceae RC9 gut group, 
+в то время как другие образцы в этой же группе имеют намного меньшие значения.
+
+
+Pathway dataframes/output_data/pathway/final_pathway_cmc.csv figures/pathway/pathway_cmc.pdf
+
+1,4-dihydroxy-6-naphthoate biosynthesis I:
+
+Среднее значение у группы CMC выше, чем у CN.
+Разница составляет -0.0001598 (отрицательное значение указывает на то, что значение в группе CN ниже).
+p-значение меньше 0.05, что говорит о статистически значимой разнице между группами.
+pyridoxal 5'-phosphate biosynthesis I:
+
+Аналогично первому метапути, значение у CMC выше.
+Разница составляет -0.001095.
+p-значение меньше 0.05.
+pyrimidine deoxyribonucleotides de novo biosynthesis III:
+
+Здесь значение у CN выше, чем у CMC.
+Разница составляет 0.0006502.
+p-значение меньше 0.05.
+pyruvate fermentation to propanoate I:
+
+Среднее значение у CMC выше.
+Разница составляет -0.002372.
+p-значение гораздо меньше 0.05.
+superpathway of menaquinol-8 biosynthesis II:
+
+Среднее значение у CMC выше.
+Разница составляет -0.0003852.
+p-значение меньше 0.05.
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage:
+
+Среднее значение у CMC выше.
+Разница составляет -0.0010353.
+p-значение меньше 0.05.
+Выводы:
+
+У группы CMC, которая питалась творогом, пять из шести метапутей имели более высокие значения по сравнению с контрольной группой CN.
+Только один метапуть (pyrimidine deoxyribonucleotides de novo biosynthesis III) имел более высокое значение 
+в контрольной группе CN по сравнению с группой CMC.
+Все различия между группами являются статистически значимыми, так как p-значения всех метапутей меньше 0.05.
+Эти результаты могут указывать на то, что употребление творога влияет на определенные метаболические пути у крыс. 

@@ -1,0 +1,205 @@
+	Group	OTU	Pathway	Correlation	P-value
+0	CN	g_Alistipes	1,4-dihydroxy-6-naphthoate biosynthesis I	0.5111111111111111	0.04662257495590829
+1	CN	g_Alistipes	pyridoxal 5'-phosphate biosynthesis I	0.06666666666666667	0.8618005952380953
+2	CN	g_Alistipes	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.4222222222222222	0.10831349206349207
+3	CN	g_Alistipes	pyruvate fermentation to propanoate I	0.15555555555555553	0.6006536596119929
+4	CN	g_Alistipes	superpathway of menaquinol-8 biosynthesis II	0.5111111111111111	0.04662257495590829
+5	CN	g_Alistipes	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.06666666666666667	0.8618005952380953
+6	CN	g_Alloprevotella	1,4-dihydroxy-6-naphthoate biosynthesis I	0.15555555555555553	0.6006536596119929
+7	CN	g_Alloprevotella	pyridoxal 5'-phosphate biosynthesis I	0.4222222222222222	0.10831349206349207
+8	CN	g_Alloprevotella	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.06666666666666667	0.8618005952380953
+9	CN	g_Alloprevotella	pyruvate fermentation to propanoate I	0.06666666666666667	0.8618005952380953
+10	CN	g_Alloprevotella	superpathway of menaquinol-8 biosynthesis II	0.15555555555555553	0.6006536596119929
+11	CN	g_Alloprevotella	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.4222222222222222	0.10831349206349207
+12	CN	g_Bacteroides	1,4-dihydroxy-6-naphthoate biosynthesis I	0.06666666666666667	0.8618005952380953
+13	CN	g_Bacteroides	pyridoxal 5'-phosphate biosynthesis I	0.4222222222222222	0.10831349206349207
+14	CN	g_Bacteroides	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.15555555555555553	0.6006536596119929
+15	CN	g_Bacteroides	pyruvate fermentation to propanoate I	0.24444444444444444	0.38071979717813054
+16	CN	g_Bacteroides	superpathway of menaquinol-8 biosynthesis II	0.06666666666666667	0.8618005952380953
+17	CN	g_Bacteroides	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.4222222222222222	0.10831349206349207
+18	CN	g_Bifidobacterium	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.1111111111111111	0.7274895282186948
+19	CN	g_Bifidobacterium	pyridoxal 5'-phosphate biosynthesis I	-0.4666666666666666	0.07255015432098766
+20	CN	g_Bifidobacterium	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.5111111111111111	0.04662257495590829
+21	CN	g_Bifidobacterium	pyruvate fermentation to propanoate I	-0.1111111111111111	0.7274895282186948
+22	CN	g_Bifidobacterium	superpathway of menaquinol-8 biosynthesis II	-0.1111111111111111	0.7274895282186948
+23	CN	g_Bifidobacterium	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.4666666666666666	0.07255015432098766
+24	CN	g_Candidatus Saccharimonas	1,4-dihydroxy-6-naphthoate biosynthesis I	0.15555555555555553	0.6006536596119929
+25	CN	g_Candidatus Saccharimonas	pyridoxal 5'-phosphate biosynthesis I	0.3333333333333333	0.21637345679012346
+26	CN	g_Candidatus Saccharimonas	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.06666666666666667	0.8618005952380953
+27	CN	g_Candidatus Saccharimonas	pyruvate fermentation to propanoate I	0.5111111111111111	0.04662257495590829
+28	CN	g_Candidatus Saccharimonas	superpathway of menaquinol-8 biosynthesis II	0.15555555555555553	0.6006536596119929
+29	CN	g_Candidatus Saccharimonas	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.3333333333333333	0.21637345679012346
+30	CN	g_Colidextribacter	1,4-dihydroxy-6-naphthoate biosynthesis I	0.24444444444444444	0.38071979717813054
+31	CN	g_Colidextribacter	pyridoxal 5'-phosphate biosynthesis I	0.06666666666666667	0.8618005952380953
+32	CN	g_Colidextribacter	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.3333333333333333	0.21637345679012346
+33	CN	g_Colidextribacter	pyruvate fermentation to propanoate I	0.15555555555555553	0.6006536596119929
+34	CN	g_Colidextribacter	superpathway of menaquinol-8 biosynthesis II	0.24444444444444444	0.38071979717813054
+35	CN	g_Colidextribacter	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.06666666666666667	0.8618005952380953
+36	CN	g_Incertae Sedis	1,4-dihydroxy-6-naphthoate biosynthesis I	0.37777777777777777	0.1557418430335097
+37	CN	g_Incertae Sedis	pyridoxal 5'-phosphate biosynthesis I	0.1111111111111111	0.7274895282186948
+38	CN	g_Incertae Sedis	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.28888888888888886	0.2912483465608466
+39	CN	g_Incertae Sedis	pyruvate fermentation to propanoate I	0.5555555555555555	0.02860945767195767
+40	CN	g_Incertae Sedis	superpathway of menaquinol-8 biosynthesis II	0.37777777777777777	0.1557418430335097
+41	CN	g_Incertae Sedis	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.1111111111111111	0.7274895282186948
+42	CN	g_Lachnospiraceae NK4A136 group	1,4-dihydroxy-6-naphthoate biosynthesis I	0.4666666666666666	0.07255015432098766
+43	CN	g_Lachnospiraceae NK4A136 group	pyridoxal 5'-phosphate biosynthesis I	0.022222222222222223	1.0
+44	CN	g_Lachnospiraceae NK4A136 group	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.28888888888888886	0.2912483465608466
+45	CN	g_Lachnospiraceae NK4A136 group	pyruvate fermentation to propanoate I	0.28888888888888886	0.2912483465608466
+46	CN	g_Lachnospiraceae NK4A136 group	superpathway of menaquinol-8 biosynthesis II	0.4666666666666666	0.07255015432098766
+47	CN	g_Lachnospiraceae NK4A136 group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.022222222222222223	1.0
+48	CN	g_Papillibacter	1,4-dihydroxy-6-naphthoate biosynthesis I	0.19999999999999998	0.4843127204585538
+49	CN	g_Papillibacter	pyridoxal 5'-phosphate biosynthesis I	0.28888888888888886	0.2912483465608466
+50	CN	g_Papillibacter	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.19999999999999998	0.4843127204585538
+51	CN	g_Papillibacter	pyruvate fermentation to propanoate I	0.28888888888888886	0.2912483465608466
+52	CN	g_Papillibacter	superpathway of menaquinol-8 biosynthesis II	0.19999999999999998	0.4843127204585538
+53	CN	g_Papillibacter	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.28888888888888886	0.2912483465608466
+54	CN	g_Parabacteroides	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.06666666666666667	0.8618005952380953
+55	CN	g_Parabacteroides	pyridoxal 5'-phosphate biosynthesis I	0.28888888888888886	0.2912483465608466
+56	CN	g_Parabacteroides	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.37777777777777777	0.1557418430335097
+57	CN	g_Parabacteroides	pyruvate fermentation to propanoate I	0.022222222222222223	1.0
+58	CN	g_Parabacteroides	superpathway of menaquinol-8 biosynthesis II	-0.06666666666666667	0.8618005952380953
+59	CN	g_Parabacteroides	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.28888888888888886	0.2912483465608466
+60	CN	g_Prevotella	1,4-dihydroxy-6-naphthoate biosynthesis I	0.19999999999999998	0.4843127204585538
+61	CN	g_Prevotella	pyridoxal 5'-phosphate biosynthesis I	0.4666666666666666	0.07255015432098766
+62	CN	g_Prevotella	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.022222222222222223	1.0
+63	CN	g_Prevotella	pyruvate fermentation to propanoate I	0.022222222222222223	1.0
+64	CN	g_Prevotella	superpathway of menaquinol-8 biosynthesis II	0.19999999999999998	0.4843127204585538
+65	CN	g_Prevotella	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.4666666666666666	0.07255015432098766
+66	CN	g_Prevotella_9	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.1111111111111111	0.7274895282186948
+67	CN	g_Prevotella_9	pyridoxal 5'-phosphate biosynthesis I	-0.1111111111111111	0.7274895282186948
+68	CN	g_Prevotella_9	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.4666666666666666	0.07255015432098766
+69	CN	g_Prevotella_9	pyruvate fermentation to propanoate I	-0.022222222222222223	1.0
+70	CN	g_Prevotella_9	superpathway of menaquinol-8 biosynthesis II	-0.1111111111111111	0.7274895282186948
+71	CN	g_Prevotella_9	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.1111111111111111	0.7274895282186948
+72	CN	g_Prevotellaceae Ga6A1 group	1,4-dihydroxy-6-naphthoate biosynthesis I	0.4666666666666666	0.07255015432098766
+73	CN	g_Prevotellaceae Ga6A1 group	pyridoxal 5'-phosphate biosynthesis I	0.28888888888888886	0.2912483465608466
+74	CN	g_Prevotellaceae Ga6A1 group	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.19999999999999998	0.4843127204585538
+75	CN	g_Prevotellaceae Ga6A1 group	pyruvate fermentation to propanoate I	0.4666666666666666	0.07255015432098766
+76	CN	g_Prevotellaceae Ga6A1 group	superpathway of menaquinol-8 biosynthesis II	0.4666666666666666	0.07255015432098766
+77	CN	g_Prevotellaceae Ga6A1 group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.28888888888888886	0.2912483465608466
+78	CN	g_Prevotellaceae NK3B31 group	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.1111111111111111	0.7274895282186948
+79	CN	g_Prevotellaceae NK3B31 group	pyridoxal 5'-phosphate biosynthesis I	0.4222222222222222	0.10831349206349207
+80	CN	g_Prevotellaceae NK3B31 group	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.19999999999999998	0.4843127204585538
+81	CN	g_Prevotellaceae NK3B31 group	pyruvate fermentation to propanoate I	0.4222222222222222	0.10831349206349207
+82	CN	g_Prevotellaceae NK3B31 group	superpathway of menaquinol-8 biosynthesis II	-0.1111111111111111	0.7274895282186948
+83	CN	g_Prevotellaceae NK3B31 group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.4222222222222222	0.10831349206349207
+84	CN	g_Rikenellaceae RC9 gut group	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.15555555555555553	0.6006536596119929
+85	CN	g_Rikenellaceae RC9 gut group	pyridoxal 5'-phosphate biosynthesis I	0.7333333333333333	0.002212852733686067
+86	CN	g_Rikenellaceae RC9 gut group	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.022222222222222223	1.0
+87	CN	g_Rikenellaceae RC9 gut group	pyruvate fermentation to propanoate I	0.4666666666666666	0.07255015432098766
+88	CN	g_Rikenellaceae RC9 gut group	superpathway of menaquinol-8 biosynthesis II	-0.15555555555555553	0.6006536596119929
+89	CN	g_Rikenellaceae RC9 gut group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.7333333333333333	0.002212852733686067
+90	CN	g_Ruminococcus	1,4-dihydroxy-6-naphthoate biosynthesis I	0.06666666666666667	0.8618005952380953
+91	CN	g_Ruminococcus	pyridoxal 5'-phosphate biosynthesis I	-0.022222222222222223	1.0
+92	CN	g_Ruminococcus	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.4222222222222222	0.10831349206349207
+93	CN	g_Ruminococcus	pyruvate fermentation to propanoate I	0.06666666666666667	0.8618005952380953
+94	CN	g_Ruminococcus	superpathway of menaquinol-8 biosynthesis II	0.06666666666666667	0.8618005952380953
+95	CN	g_Ruminococcus	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.022222222222222223	1.0
+96	CN	g_UCG-003	1,4-dihydroxy-6-naphthoate biosynthesis I	0.3333333333333333	0.21637345679012346
+97	CN	g_UCG-003	pyridoxal 5'-phosphate biosynthesis I	-0.022222222222222223	1.0
+98	CN	g_UCG-003	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.3333333333333333	0.21637345679012346
+99	CN	g_UCG-003	pyruvate fermentation to propanoate I	-0.1111111111111111	0.7274895282186948
+100	CN	g_UCG-003	superpathway of menaquinol-8 biosynthesis II	0.3333333333333333	0.21637345679012346
+101	CN	g_UCG-003	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.022222222222222223	1.0
+102	CMC	g_Alistipes	1,4-dihydroxy-6-naphthoate biosynthesis I	0.6	0.016666115520282188
+103	CMC	g_Alistipes	pyridoxal 5'-phosphate biosynthesis I	0.24444444444444444	0.38071979717813054
+104	CMC	g_Alistipes	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.022222222222222223	1.0
+105	CMC	g_Alistipes	pyruvate fermentation to propanoate I	0.1111111111111111	0.7274895282186948
+106	CMC	g_Alistipes	superpathway of menaquinol-8 biosynthesis II	0.5555555555555555	0.02860945767195767
+107	CMC	g_Alistipes	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.19999999999999998	0.4843127204585538
+108	CMC	g_Alloprevotella	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.022222222222222223	1.0
+109	CMC	g_Alloprevotella	pyridoxal 5'-phosphate biosynthesis I	0.24444444444444444	0.38071979717813054
+110	CMC	g_Alloprevotella	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.022222222222222223	1.0
+111	CMC	g_Alloprevotella	pyruvate fermentation to propanoate I	0.022222222222222223	1.0
+112	CMC	g_Alloprevotella	superpathway of menaquinol-8 biosynthesis II	-0.06666666666666667	0.8618005952380953
+113	CMC	g_Alloprevotella	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.19999999999999998	0.4843127204585538
+114	CMC	g_Bacteroides	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.24444444444444444	0.38071979717813054
+115	CMC	g_Bacteroides	pyridoxal 5'-phosphate biosynthesis I	0.022222222222222223	1.0
+116	CMC	g_Bacteroides	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.5111111111111111	0.04662257495590829
+117	CMC	g_Bacteroides	pyruvate fermentation to propanoate I	-0.022222222222222223	1.0
+118	CMC	g_Bacteroides	superpathway of menaquinol-8 biosynthesis II	-0.19999999999999998	0.4843127204585538
+119	CMC	g_Bacteroides	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.06666666666666667	0.8618005952380953
+120	CMC	g_Bifidobacterium	1,4-dihydroxy-6-naphthoate biosynthesis I	0.1111111111111111	0.7274895282186948
+121	CMC	g_Bifidobacterium	pyridoxal 5'-phosphate biosynthesis I	0.6444444444444444	0.009148478835978836
+122	CMC	g_Bifidobacterium	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.28888888888888886	0.2912483465608466
+123	CMC	g_Bifidobacterium	pyruvate fermentation to propanoate I	0.7777777777777777	0.0009463183421516755
+124	CMC	g_Bifidobacterium	superpathway of menaquinol-8 biosynthesis II	0.06666666666666667	0.8618005952380953
+125	CMC	g_Bifidobacterium	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.6	0.016666115520282188
+126	CMC	g_Candidatus Saccharimonas	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.28888888888888886	0.2912483465608466
+127	CMC	g_Candidatus Saccharimonas	pyridoxal 5'-phosphate biosynthesis I	0.3333333333333333	0.21637345679012346
+128	CMC	g_Candidatus Saccharimonas	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.37777777777777777	0.1557418430335097
+129	CMC	g_Candidatus Saccharimonas	pyruvate fermentation to propanoate I	0.19999999999999998	0.4843127204585538
+130	CMC	g_Candidatus Saccharimonas	superpathway of menaquinol-8 biosynthesis II	-0.24444444444444444	0.38071979717813054
+131	CMC	g_Candidatus Saccharimonas	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.37777777777777777	0.1557418430335097
+132	CMC	g_Colidextribacter	1,4-dihydroxy-6-naphthoate biosynthesis I	0.3333333333333333	0.21637345679012346
+133	CMC	g_Colidextribacter	pyridoxal 5'-phosphate biosynthesis I	-0.022222222222222223	1.0
+134	CMC	g_Colidextribacter	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.37777777777777777	0.1557418430335097
+135	CMC	g_Colidextribacter	pyruvate fermentation to propanoate I	-0.06666666666666667	0.8618005952380953
+136	CMC	g_Colidextribacter	superpathway of menaquinol-8 biosynthesis II	0.37777777777777777	0.1557418430335097
+137	CMC	g_Colidextribacter	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.06666666666666667	0.8618005952380953
+138	CMC	g_Incertae Sedis	1,4-dihydroxy-6-naphthoate biosynthesis I	0.022222222222222223	1.0
+139	CMC	g_Incertae Sedis	pyridoxal 5'-phosphate biosynthesis I	0.022222222222222223	1.0
+140	CMC	g_Incertae Sedis	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.4222222222222222	0.10831349206349207
+141	CMC	g_Incertae Sedis	pyruvate fermentation to propanoate I	-0.1111111111111111	0.7274895282186948
+142	CMC	g_Incertae Sedis	superpathway of menaquinol-8 biosynthesis II	0.06666666666666667	0.8618005952380953
+143	CMC	g_Incertae Sedis	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.022222222222222223	1.0
+144	CMC	g_Lachnospiraceae NK4A136 group	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.19999999999999998	0.4843127204585538
+145	CMC	g_Lachnospiraceae NK4A136 group	pyridoxal 5'-phosphate biosynthesis I	-0.022222222222222223	1.0
+146	CMC	g_Lachnospiraceae NK4A136 group	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.24444444444444444	0.38071979717813054
+147	CMC	g_Lachnospiraceae NK4A136 group	pyruvate fermentation to propanoate I	0.1111111111111111	0.7274895282186948
+148	CMC	g_Lachnospiraceae NK4A136 group	superpathway of menaquinol-8 biosynthesis II	-0.15555555555555553	0.6006536596119929
+149	CMC	g_Lachnospiraceae NK4A136 group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.06666666666666667	0.8618005952380953
+150	CMC	g_Papillibacter	1,4-dihydroxy-6-naphthoate biosynthesis I	0.1111111111111111	0.7274895282186948
+151	CMC	g_Papillibacter	pyridoxal 5'-phosphate biosynthesis I	-0.15555555555555553	0.6006536596119929
+152	CMC	g_Papillibacter	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.15555555555555553	0.6006536596119929
+153	CMC	g_Papillibacter	pyruvate fermentation to propanoate I	-0.19999999999999998	0.4843127204585538
+154	CMC	g_Papillibacter	superpathway of menaquinol-8 biosynthesis II	0.15555555555555553	0.6006536596119929
+155	CMC	g_Papillibacter	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.1111111111111111	0.7274895282186948
+156	CMC	g_Parabacteroides	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.19999999999999998	0.4843127204585538
+157	CMC	g_Parabacteroides	pyridoxal 5'-phosphate biosynthesis I	0.3333333333333333	0.21637345679012346
+158	CMC	g_Parabacteroides	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.06666666666666667	0.8618005952380953
+159	CMC	g_Parabacteroides	pyruvate fermentation to propanoate I	0.4666666666666666	0.07255015432098766
+160	CMC	g_Parabacteroides	superpathway of menaquinol-8 biosynthesis II	-0.15555555555555553	0.6006536596119929
+161	CMC	g_Parabacteroides	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.28888888888888886	0.2912483465608466
+162	CMC	g_Prevotella	1,4-dihydroxy-6-naphthoate biosynthesis I	0.15555555555555553	0.6006536596119929
+163	CMC	g_Prevotella	pyridoxal 5'-phosphate biosynthesis I	0.06666666666666667	0.8618005952380953
+164	CMC	g_Prevotella	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.4666666666666666	0.07255015432098766
+165	CMC	g_Prevotella	pyruvate fermentation to propanoate I	-0.06666666666666667	0.8618005952380953
+166	CMC	g_Prevotella	superpathway of menaquinol-8 biosynthesis II	0.19999999999999998	0.4843127204585538
+167	CMC	g_Prevotella	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.1111111111111111	0.7274895282186948
+168	CMC	g_Prevotella_9	1,4-dihydroxy-6-naphthoate biosynthesis I	0.3333333333333333	0.21637345679012346
+169	CMC	g_Prevotella_9	pyridoxal 5'-phosphate biosynthesis I	-0.022222222222222223	1.0
+170	CMC	g_Prevotella_9	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.4666666666666666	0.07255015432098766
+171	CMC	g_Prevotella_9	pyruvate fermentation to propanoate I	-0.15555555555555553	0.6006536596119929
+172	CMC	g_Prevotella_9	superpathway of menaquinol-8 biosynthesis II	0.37777777777777777	0.1557418430335097
+173	CMC	g_Prevotella_9	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.022222222222222223	1.0
+174	CMC	g_Prevotellaceae Ga6A1 group	1,4-dihydroxy-6-naphthoate biosynthesis I	0.022222222222222223	1.0
+175	CMC	g_Prevotellaceae Ga6A1 group	pyridoxal 5'-phosphate biosynthesis I	0.37777777777777777	0.1557418430335097
+176	CMC	g_Prevotellaceae Ga6A1 group	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.06666666666666667	0.8618005952380953
+177	CMC	g_Prevotellaceae Ga6A1 group	pyruvate fermentation to propanoate I	0.15555555555555553	0.6006536596119929
+178	CMC	g_Prevotellaceae Ga6A1 group	superpathway of menaquinol-8 biosynthesis II	-0.022222222222222223	1.0
+179	CMC	g_Prevotellaceae Ga6A1 group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.3333333333333333	0.21637345679012346
+180	CMC	g_Prevotellaceae NK3B31 group	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.15555555555555553	0.6006536596119929
+181	CMC	g_Prevotellaceae NK3B31 group	pyridoxal 5'-phosphate biosynthesis I	0.28888888888888886	0.2912483465608466
+182	CMC	g_Prevotellaceae NK3B31 group	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.4222222222222222	0.10831349206349207
+183	CMC	g_Prevotellaceae NK3B31 group	pyruvate fermentation to propanoate I	0.24444444444444444	0.38071979717813054
+184	CMC	g_Prevotellaceae NK3B31 group	superpathway of menaquinol-8 biosynthesis II	-0.19999999999999998	0.4843127204585538
+185	CMC	g_Prevotellaceae NK3B31 group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.3333333333333333	0.21637345679012346
+186	CMC	g_Rikenellaceae RC9 gut group	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.3333333333333333	0.21637345679012346
+187	CMC	g_Rikenellaceae RC9 gut group	pyridoxal 5'-phosphate biosynthesis I	0.1111111111111111	0.7274895282186948
+188	CMC	g_Rikenellaceae RC9 gut group	pyrimidine deoxyribonucleotides de novo biosynthesis III	0.15555555555555553	0.6006536596119929
+189	CMC	g_Rikenellaceae RC9 gut group	pyruvate fermentation to propanoate I	0.15555555555555553	0.6006536596119929
+190	CMC	g_Rikenellaceae RC9 gut group	superpathway of menaquinol-8 biosynthesis II	-0.28888888888888886	0.2912483465608466
+191	CMC	g_Rikenellaceae RC9 gut group	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.06666666666666667	0.8618005952380953
+192	CMC	g_Ruminococcus	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.15555555555555553	0.6006536596119929
+193	CMC	g_Ruminococcus	pyridoxal 5'-phosphate biosynthesis I	0.37777777777777777	0.1557418430335097
+194	CMC	g_Ruminococcus	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.1111111111111111	0.7274895282186948
+195	CMC	g_Ruminococcus	pyruvate fermentation to propanoate I	0.6	0.016666115520282188
+196	CMC	g_Ruminococcus	superpathway of menaquinol-8 biosynthesis II	-0.19999999999999998	0.4843127204585538
+197	CMC	g_Ruminococcus	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0.3333333333333333	0.21637345679012346
+198	CMC	g_UCG-003	1,4-dihydroxy-6-naphthoate biosynthesis I	-0.06666666666666667	0.8618005952380953
+199	CMC	g_UCG-003	pyridoxal 5'-phosphate biosynthesis I	-0.4222222222222222	0.10831349206349207
+200	CMC	g_UCG-003	pyrimidine deoxyribonucleotides de novo biosynthesis III	-0.1111111111111111	0.7274895282186948
+201	CMC	g_UCG-003	pyruvate fermentation to propanoate I	-0.5555555555555555	0.02860945767195767
+202	CMC	g_UCG-003	superpathway of menaquinol-8 biosynthesis II	-0.022222222222222223	1.0
+203	CMC	g_UCG-003	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	-0.4666666666666666	0.07255015432098766
